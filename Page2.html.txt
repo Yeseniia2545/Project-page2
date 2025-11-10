@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Our Collection </title>
+</head>
+<body>
+<a href ="page1">Main</a>
+<a href ="Page2">Our collection</a>
+<a href ="page3">History</a>
+<a href ="page4">Contacts</a>
+<h1>Collection</h1>
+<p>The Museum holds over 416,000 items related to the wars and armed conflicts of the 20th and 21st centuries on Ukrainian territory and involving Ukrainians.
+    The collection began to take shape long before the Museum's opening, in the 1940s, and was initially primarily associated with the combat operations and participants of the Second World War.
+    It preserved weapons, uniforms, photographs, and personal belongings of servicemen from the regular and paramilitary formations of various countries on the Eastern European front. Gradually, its scope expanded through collections related to notable figures and artifacts representing the themes of local wars and armed conflicts of the 20th century.
+    From the 1990s to the present day, the collection's growth and development have been significantly driven by a socio-humanitarian emphasis, focusing on the personal stories of people—both armed and unarmed—who found themselves at the epicenter of two world wars, experienced the effects of tyranny, became victims of genocides, and despite everything, offered their own physical or spiritual resistance to the aggressor.
+    Furthermore, in extremely complex, often unfavorable circumstances, they embarked on a sacrificial path of struggle for Ukraine's national independence, state sovereignty, and territorial integrity in the 20th and 21st centuries.
+    This is precisely why in our Museum, you can see an incredibly diverse range of exhibits that tell of different times, events, and functions.
+</p>
+<h2>For Example:</h2>
+<h3>1.The Model 1882 officer's sword:</h3>
+<p>The Model 1882 officer's sword was a standardized pattern for officers in the French army.
+Its design is derived from the swords of the colonial troops. Production was established by the BALP manufactory in Saint-Étienne.
+Mass production of the 1882 model swords occurred during the First World War. They were used by engineers, colonial troops (except artillery), gendarmerie, chasseurs, mountain infantry (chasseurs alpins), and the Republican Guard.
+The sword was officially removed from service on August 13, 1925, but it is still in use by the cadets of the National School of Fire Officers.
+</p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Early Modern period (15th- 19th centuries),First World War 1914-1918,Interwar period 1918-1939.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>1882-1925</td>
+    </tr>
+    <tr>
+        <td>Manufacturer:</td>
+        <td>BALP St. Etienne</td>
+    </tr>
+    <tr>
+        <td>Materials:</td>
+        <td> Wood, metal,leather.</td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Factory production,forging,carving,casting.</td>
+    </tr>
+    <tr>
+        <td>Dimensions:</td>
+        <td>98.5*12.0 cm</td>
+    </tr>
+</table>
+<h4>2.Flag from Azovstal:</h4>
+<p>A unique relic for the Museum has become the yellow and blue flag from the very epicenter of the heroic resistance against the aggressor on the territory of the "Azovstal" metallurgical plant in the city of Mariupol. 
+This banner flew until the very end over the plant's buildings during the battle for the city.
+A testament to the "Russian world" is a piece of an enemy shell that became fused with the fabric.
+From April 10th, the Ukrainian fighters defending the plant and the civilians sheltering there were in a complete siege. 
+The flag was rescued from the hellish steel plant by scouts of the Main Intelligence Directorate of the Ministry of Defence of Ukraine, who, despite intense Russian shelling, managed to carry out several helicopter raids to rescue civilians and the wounded.
+</p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Russian-Ukrainian war: 2022 Russian full-scale invasion.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2022</td></td>
+    </tr>
+    <tr>
+        <td>Country (of origin/use):</td>
+        <td>Ukraine<\td>
+    </tr>
+    <tr>
+        <td>Materials:</td>
+        <td>Metal,thread, fabric.<\td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Sewing</td>
+    </tr>
+    <tr>
+        <td>Dimensions:</td>
+        <td>90.0 x 140.0 cm</td>
+    </tr>
+</table>
+<h4>3.Commemorative banknote "WE REMEMBER! WE WILL NOT FORGIVE!":</h4>
+<p>The commemorative banknote "WE REMEMBER! WE WILL NOT FORGIVE!" with a face value of 20 hryvnias was issued by the National Bank of Ukraine. 
+ It was put into circulation on February 23, 2023 (in a limited print run).
+ It is dedicated to repelling the full-scale invasion of the Russian occupiers and to perpetuating the resilience and invincibility of the Ukrainian people, their strength of spirit and heroism. 
+ The design of this unique banknote was created by the Honored Artist of Ukraine, Volodymyr Taran.
+</p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Russian-Ukrainian war: 2022 Russian full-scale invasion.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2023</td>
+    </tr>
+    <tr>
+        <td>Country (of origin/use):</td>
+        <td>Ukraine</td>
+    </tr>
+    <tr>
+        <td>Language:</td>
+        <td>Ukrainian, English</td>
+    </tr>
+    <tr>
+        <td>Author:</td>
+        <td>Volodymyr Taran, Oleksandr Smirnov, Serhii Mishakin.</td>
+    </tr>
+    <tr>
+        <td>Materials:</td>
+        <td>Paper,printing ink.</td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Colour printing.</td>
+    </tr>
+    <tr>
+        <td>Dimensions:</td>
+        <td>8.0 x 16.5 cm</td>
+    </tr>
+</table>
+<h4>4.Ukrainian Su-24M bomber:</h4>
+<p></p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Russian-Ukrainian war: 2022 Russian full-scale invasion.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>2022</td>
+    </tr>
+    <tr>
+        <td>Country (of origin/use):</td>
+        <td>Ukraine</td>
+    </tr>
+    <tr>
+        <td>Materials:</td>
+        <td>Metal,paint, wire.</td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Factory production.</td>
+    </tr>
+</table>
+<h4>5."Meat Grinder"</h4>
+<p></p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Second World War 1939–1945.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>1941-1944</td>
+    </tr>
+    <tr>
+        <td>Country (of origin/use):</td>
+        <td>Ukraine (Ukrainian SSR / Ukrainian SSR)</td>
+    </tr>
+    <tr>
+        <td>Materials:</td>
+        <td>Metal</td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Factory production.</td>
+    </tr>
+    <tr>
+        <td>Dimensions:</td>
+        <td>3.10 x 4.40 x 2.16 m</td>
+    </tr>
+</table>
+<h4>6.</h4>
+<p></p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Early Modern period (15th- 19th centuries),First World War 1914-1918,Interwar period 1918-1939.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>1882-1925</td>
+    </tr>
+    <tr>
+        <td>Manufacturer:</td>
+        <td>BALP St. Etienne</td>
+    </tr>
+    <tr>
+        <td>Material:</td>
+        <td> Wood, metal,leather.</td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Factory production,forging,carving,casting.</td>
+    </tr>
+    <tr>
+        <td>Dimensions:</td>
+        <td>98.5*12.0 cm</td>
+    </tr>
+</table>
+<h4>6.</h4>
+<p></p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Early Modern period (15th- 19th centuries),First World War 1914-1918,Interwar period 1918-1939.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>1882-1925</td>
+    </tr>
+    <tr>
+        <td>Manufacturer:</td>
+        <td>BALP St. Etienne</td>
+    </tr>
+    <tr>
+        <td>Material:</td>
+        <td> Wood, metal,leather.</td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Factory production,forging,carving,casting.</td>
+    </tr>
+    <tr>
+        <td>Dimensions:</td>
+        <td>98.5*12.0 cm</td>
+    </tr>
+</table>
+    <h4>6.Vadym Zeleniuk's NLAW:</h4>
+<p>The NLAW was transferred to the museum in the autumn of 2022 by soldiers of the "Omega" Special Purpose Detachment of the National Guard of Ukraine. This weapon belonged to Major Vadym Zeleniuk, a strong, brave, strong-willed, and resolute man, a multiple champion and prize-winner of Ukraine and Europe in combat sambo, judo, and universal combat.
+    On August 22, 2022, on the approaches to the city of Avdiivka, his group received the task of repelling an enemy assault and securing designated positions. 
+    Using two NLAW anti-tank missile systems, Major Zeleniuk destroyed two enemy infantry fighting vehicles along with their crews. While moving forward, covering his comrades and drawing fire upon himself, he sustained a gunshot wound but continued to advance and engage the enemy. 
+    The group then came under mortar fire. Vadym was mortally wounded by a shell fragment.
+    He was posthumously awarded the title of Hero of Ukraine, with his family receiving the "Gold Star" Order.
+</p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Russian-Ukrainian war: 2022 Russian full-scale invasion.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>early 21st century</td>
+    </tr>
+    <tr>
+        <td>Country (of origin/use):</td>
+        <td>Great Britain, Ukraine, Sweden.</td>
+    </tr>
+    <tr>
+        <td>Manufacturer:</td>
+        <td>Saab Bofors Dynamics (SAAB), Thales Air Defence Limited (TADL).</td>
+    </tr>
+    <tr>
+        <td>Materials:</td>
+        <td>Artificial fiber, metal, foam plastic, plastic, webbing strap, tape, paint.</td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Handwriting, factory production.</td>
+    </tr>
+    <tr>
+        <td>Dimensions:</td>
+        <td>101.6 x 32.0 cm</td>
+    </tr>
+</table>
+    <h4>7.One hundred hryvnias of the Ukrainian People's Republic (UPR):</h4>
+<p></p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Liberation struggles of 1917–1921.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>1918</td>
+    </tr>
+    <tr>
+        <td>Country (of origin/use):</td>
+        <td>Germany, Ukraine</td>
+    </tr>
+    <tr>
+        <td>Language:</td>
+        <td>Ukrainian</td>
+    </tr>
+    <tr>
+        <td>Author:</td>
+        <td>Heorhiy Narbut</td>
+    </tr>
+    <tr>
+        <td>Manufacturer:</td>
+        <td>Reichsdruckerei Printing House</td>
+    </tr>
+    <tr>
+        <td>Materials:</td>
+        <td>Paper.</td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Colour printing.</td>
+    </tr>
+    <tr>
+        <td>Dimensions:</td>
+        <td>11.5 x 17.5 cm</td>
+    </tr>
+</table>
+    <h4>8.Japanese army sword:</h4>
+<p></p>
+<table>
+    <tr>
+        <th>Information</th>
+        <th>Descriptions</th>
+    </tr>
+    <tr>
+        <td>Period:</td>
+        <td>Early Modern period (15th–19th centuries), Second World War 1939–1945.</td>
+    </tr>
+    <tr>
+        <td>Year:</td>
+        <td>17th-18th centuries</td>
+    </tr>
+    <tr>
+        <td>Country (of origin/use):</td>
+        <td>Japan</td>
+    </tr>
+    <tr>
+        <td>Author:</td>
+        <td>Fujiwara Kanetsuna (Gio Tahei).</td>
+    </tr>
+    <tr>
+        <td>Materials:</td>
+        <td> Wood,brass, leather, steel.</td>
+    </tr>
+    <tr>
+        <td>Technique:</td>
+        <td>Handcrafted, forging, engraving, stamping.</td>
+    </tr>
+</table>
+</body>
+</html>
+
+
+
