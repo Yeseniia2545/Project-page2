@@ -19,6 +19,7 @@
 </p>
 <h2>For Example:</h2>
 <h3>1.The Model 1882 officer's sword:</h3>
+<!--Description of this exhibit-->
 <p>The Model 1882 officer's sword was a standardized pattern for officers in the French army.
 Its design is derived from the swords of the colonial troops. Production was established by the BALP manufactory in Saint-Étienne.
 Mass production of the 1882 model swords occurred during the First World War. They were used by engineers, colonial troops (except artillery), gendarmerie, chasseurs, mountain infantry (chasseurs alpins), and the Republican Guard.
@@ -56,6 +57,7 @@ The sword was officially removed from service on August 13, 1925, but it is stil
     </tr>
 </table>
 <h4>2.Flag from Azovstal:</h4>
+<!--Description of this exhibit-->
 <p>A unique relic for the Museum has become the yellow and blue flag from the very epicenter of the heroic resistance against the aggressor on the territory of the "Azovstal" metallurgical plant in the city of Mariupol. 
 This banner flew until the very end over the plant's buildings during the battle for the city.
 A testament to the "Russian world" is a piece of an enemy shell that became fused with the fabric.
@@ -94,6 +96,7 @@ The flag was rescued from the hellish steel plant by scouts of the Main Intellig
     </tr>
 </table>
 <h4>3.Commemorative banknote "WE REMEMBER! WE WILL NOT FORGIVE!":</h4>
+<!--Description of this exhibit-->
 <p>The commemorative banknote "WE REMEMBER! WE WILL NOT FORGIVE!" with a face value of 20 hryvnias was issued by the National Bank of Ukraine. 
  It was put into circulation on February 23, 2023 (in a limited print run).
  It is dedicated to repelling the full-scale invasion of the Russian occupiers and to perpetuating the resilience and invincibility of the Ukrainian people, their strength of spirit and heroism. 
@@ -139,6 +142,7 @@ The flag was rescued from the hellish steel plant by scouts of the Main Intellig
     </tr>
 </table>
 <h4>4.Ukrainian Su-24M bomber:</h4>
+<!--Description of this exhibit-->
 <p>On the open-air observation platform of the Museum, among the artifacts of the Russian-Ukrainian war, a prominent place is held by the wreckage of a Su-24M frontline bomber with a trident on its wing.
 In the autumn of 2022, on the wave of the stunning counteroffensive by the Defense Forces of Ukraine, museum staff set out on an expedition through the newly de-occupied territories of the Kharkiv region and the lands of the Donetsk region to document this momentous event for the entire country.
 On the road from the city of Izyum in the Kharkiv region, the researchers' attention was drawn to a rather unusual silhouette in a field amidst an unharvested crop. These were the remains of an aircraft, which later turned out to be a Ukrainian Su-24. Thus, the first exhibits of this mission were collected: the fuselage, onboard instruments, and a parachute.
@@ -171,6 +175,7 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
     </tr>
 </table>
 <h4>5."Meat Grinder"</h4>
+<!--Description of this exhibit-->
 <p></p>
 <!--A table with additional information about this exhibit-->
 <table>
@@ -203,7 +208,8 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
         <td>3.10 x 4.40 x 2.16 m</td>
     </tr>
 </table>
-    <h4>6.Vadym Zeleniuk's NLAW:</h4>
+<h4>6.Vadym Zeleniuk's NLAW:</h4>
+<!--Description of this exhibit-->
 <p>The NLAW was transferred to the museum in the autumn of 2022 by soldiers of the "Omega" Special Purpose Detachment of the National Guard of Ukraine. This weapon belonged to Major Vadym Zeleniuk, a strong, brave, strong-willed, and resolute man, a multiple champion and prize-winner of Ukraine and Europe in combat sambo, judo, and universal combat.
     On August 22, 2022, on the approaches to the city of Avdiivka, his group received the task of repelling an enemy assault and securing designated positions. 
     Using two NLAW anti-tank missile systems, Major Zeleniuk destroyed two enemy infantry fighting vehicles along with their crews. While moving forward, covering his comrades and drawing fire upon himself, he sustained a gunshot wound but continued to advance and engage the enemy. 
@@ -245,7 +251,8 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
         <td>101.6 x 32.0 cm</td>
     </tr>
 </table>
-    <h4>7.One hundred hryvnias of the Ukrainian People's Republic (UPR):</h4>
+ <h4>7.One hundred hryvnias of the Ukrainian People's Republic (UPR):</h4>
+<!--Description of this exhibit-->
 <p></p>
 <!--A table with additional information about this exhibit-->
 <table>
@@ -291,6 +298,7 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
     </tr>
 </table>
     <h4>8.Japanese army sword:</h4>
+<!--Description of this exhibit-->
 <p></p>
 <!--A table with additional information about this exhibit-->
 <table>
@@ -325,6 +333,7 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
 </table>
 </body>
 </html>
+
 
 
 
