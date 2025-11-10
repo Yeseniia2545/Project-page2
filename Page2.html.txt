@@ -136,7 +136,10 @@ The flag was rescued from the hellish steel plant by scouts of the Main Intellig
     </tr>
 </table>
 <h4>4.Ukrainian Su-24M bomber:</h4>
-<p></p>
+<p>On the open-air observation platform of the Museum, among the artifacts of the Russian-Ukrainian war, a prominent place is held by the wreckage of a Su-24M frontline bomber with a trident on its wing.
+In the autumn of 2022, on the wave of the stunning counteroffensive by the Defense Forces of Ukraine, museum staff set out on an expedition through the newly de-occupied territories of the Kharkiv region and the lands of the Donetsk region to document this momentous event for the entire country.
+On the road from the city of Izyum in the Kharkiv region, the researchers' attention was drawn to a rather unusual silhouette in a field amidst an unharvested crop. These were the remains of an aircraft, which later turned out to be a Ukrainian Su-24. Thus, the first exhibits of this mission were collected: the fuselage, onboard instruments, and a parachute.
+</p>
 <table>
     <tr>
         <th>Information</th>
@@ -314,6 +317,7 @@ The flag was rescued from the hellish steel plant by scouts of the Main Intellig
 </table>
 </body>
 </html>
+
 
 
 
