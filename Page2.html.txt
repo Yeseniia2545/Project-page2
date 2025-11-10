@@ -5,6 +5,7 @@
     <title>Our Collection </title>
 </head>
 <body>
+<!--Links to other pages-->
 <a href ="page1">Main</a>
 <a href ="Page2">Our collection</a>
 <a href ="page3">History</a>
@@ -333,6 +334,7 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
 </table>
 </body>
 </html>
+
 
 
 
