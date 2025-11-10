@@ -24,6 +24,7 @@ Its design is derived from the swords of the colonial troops. Production was est
 Mass production of the 1882 model swords occurred during the First World War. They were used by engineers, colonial troops (except artillery), gendarmerie, chasseurs, mountain infantry (chasseurs alpins), and the Republican Guard.
 The sword was officially removed from service on August 13, 1925, but it is still in use by the cadets of the National School of Fire Officers.
 </p>
+<!--A table with additional information about this exhibit-->
 <table>
     <tr>
         <th>Information</th>
@@ -61,6 +62,7 @@ A testament to the "Russian world" is a piece of an enemy shell that became fuse
 From April 10th, the Ukrainian fighters defending the plant and the civilians sheltering there were in a complete siege. 
 The flag was rescued from the hellish steel plant by scouts of the Main Intelligence Directorate of the Ministry of Defence of Ukraine, who, despite intense Russian shelling, managed to carry out several helicopter raids to rescue civilians and the wounded.
 </p>
+<!--A table with additional information about this exhibit-->
 <table>
     <tr>
         <th>Information</th>
@@ -97,6 +99,7 @@ The flag was rescued from the hellish steel plant by scouts of the Main Intellig
  It is dedicated to repelling the full-scale invasion of the Russian occupiers and to perpetuating the resilience and invincibility of the Ukrainian people, their strength of spirit and heroism. 
  The design of this unique banknote was created by the Honored Artist of Ukraine, Volodymyr Taran.
 </p>
+<!--A table with additional information about this exhibit-->
 <table>
     <tr>
         <th>Information</th>
@@ -140,6 +143,7 @@ The flag was rescued from the hellish steel plant by scouts of the Main Intellig
 In the autumn of 2022, on the wave of the stunning counteroffensive by the Defense Forces of Ukraine, museum staff set out on an expedition through the newly de-occupied territories of the Kharkiv region and the lands of the Donetsk region to document this momentous event for the entire country.
 On the road from the city of Izyum in the Kharkiv region, the researchers' attention was drawn to a rather unusual silhouette in a field amidst an unharvested crop. These were the remains of an aircraft, which later turned out to be a Ukrainian Su-24. Thus, the first exhibits of this mission were collected: the fuselage, onboard instruments, and a parachute.
 </p>
+<!--A table with additional information about this exhibit-->
 <table>
     <tr>
         <th>Information</th>
@@ -168,6 +172,7 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
 </table>
 <h4>5."Meat Grinder"</h4>
 <p></p>
+<!--A table with additional information about this exhibit-->
 <table>
     <tr>
         <th>Information</th>
@@ -205,6 +210,7 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
     The group then came under mortar fire. Vadym was mortally wounded by a shell fragment.
     He was posthumously awarded the title of Hero of Ukraine, with his family receiving the "Gold Star" Order.
 </p>
+<!--A table with additional information about this exhibit-->
 <table>
     <tr>
         <th>Information</th>
@@ -241,6 +247,7 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
 </table>
     <h4>7.One hundred hryvnias of the Ukrainian People's Republic (UPR):</h4>
 <p></p>
+<!--A table with additional information about this exhibit-->
 <table>
     <tr>
         <th>Information</th>
@@ -285,6 +292,7 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
 </table>
     <h4>8.Japanese army sword:</h4>
 <p></p>
+<!--A table with additional information about this exhibit-->
 <table>
     <tr>
         <th>Information</th>
@@ -317,6 +325,7 @@ On the road from the city of Izyum in the Kharkiv region, the researchers' atten
 </table>
 </body>
 </html>
+
 
 
 
